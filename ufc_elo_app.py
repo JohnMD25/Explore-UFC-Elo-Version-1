@@ -18,7 +18,6 @@ from streamlit_option_menu import option_menu
 
 import networkx as nx              # requirements.txt: networkx
 import streamlit_shadcn_ui as ui   # requirements.txt: streamlit-shadcn-ui
-from streamlit_echarts import ...  # requirements.txt: streamlit-echarts
 from streamlit_option_menu import option_menu  # requirements.txt: streamlit-option-menu
 
 
