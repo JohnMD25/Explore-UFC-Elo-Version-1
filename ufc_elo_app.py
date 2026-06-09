@@ -9,6 +9,7 @@ import unicodedata
 import altair as alt
 import networkx as nx
 import pandas as pd
+import networkx as nx
 import plotly.graph_objects as go
 import streamlit as st
 import streamlit_shadcn_ui as ui
